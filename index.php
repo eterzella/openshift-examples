@@ -1,4 +1,4 @@
 <?php
-  echo "Hello World!";
-  echo "PHP is so easy!";
+  echo "Exemplo Kubernetes!";
+  echo $_SERVER['SERVER_NAME'];
 ?>
