@@ -1,4 +1,4 @@
 <?php
   echo "Exemplo Kubernetes!";
-  echo $_SERVER['SERVER_NAME'];
+  echo $_SERVER['SERVER_ADDR']
 ?>
